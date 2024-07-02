@@ -1,0 +1,28 @@
+h1{
+   color:dimgray;
+}
+
+p{
+  color:darkslategrey;
+}
+
+h3{
+color:lightskyblue;
+}
+@font-face {
+    font-family: mytupi Bold;
+    src: url(fonteysl/WixMadeforDisplay-VariableFont_wght.ttf);
+    }
+    body{
+        color:rgb(0, 0, 0);
+        background-color:rgb(255, 255, 255);
+     
+    }
+    p{
+        font-family: "Wix Madefor Display", sans-serif;
+        font-size: 24px;
+    }
+    h1{
+        font-family: "Lexend Deca", sans-serif;
+        text-align: center;
+    }
